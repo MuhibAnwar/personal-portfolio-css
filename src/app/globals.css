@@ -1,0 +1,59 @@
+/* globals.css */
+
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body */
+body {
+  font-family: Arial, sans-serif;
+  color: #333;
+  line-height: 1.6;
+  background-color: rgb(22, 16, 16);
+}
+
+/* Container */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* Text Centering */
+.text-center {
+  text-align: center;
+}
+
+/* Borders */
+.border {
+  border: 1px solid #ddd;
+}
+
+/* Button */
+.btn-primary {
+  background-color: #ff0078;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Heading */
+h1, h2, h3, .text-xl {
+  font-weight: bold;
+}
+#per {
+  color: white;
+}
+#nav {
+  color: white;
+}
+#heron {
+  color: white;
+}
+.Navbar {
+color: white;
+}
